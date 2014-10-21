@@ -4,7 +4,7 @@ This is how we do things.
 
 ## Project Management
 
-1. GiHub (Duh!)
+1. GitHub (Duh!)
 2. [waffle.io](https://waffle.io/)
 
 ## Git
